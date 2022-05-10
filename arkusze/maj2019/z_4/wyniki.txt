@@ -1,0 +1,10 @@
+Zadanie 1:
+Jest 18 takich liczb
+
+Zadanie 2:
+2
+145
+1
+40585
+
+Zadnaie 3:
